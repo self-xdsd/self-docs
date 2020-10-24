@@ -17,10 +17,10 @@ After activating the Repo, the user must register some ``Contracts`` (a Contract
 
 ## User, Contributors
 
-A ``User`` is usually someone who activated one or more of their repos on Self XDSD, the Project Owner, if you wish.
+A ``User`` is usually someone who activated one or more of their repos on Self XDSD. The Project Owner, if you wish.
 
-A ``Contributor`` is a Github user who has a ``Contract`` with the users ``Project``. A ``Contributor`` may have multiple
-contracts with the same ``Project`` (for example, one contract with the ``DEV`` role, another one with the ``ARCH`` role etc).
+A ``Contributor`` is a Github user who has a ``Contract`` with the ``Project``. A ``Contributor`` may have multiple
+contracts with the same ``Project`` (one contract with the ``DEV`` role, another one with the ``ARCH`` role etc).
 
 Of course, a person can be both a ``User`` and a ``Contributor`` -- that is, you can have your own repos managed by Self and also
 work as a Contributor in other people's projects.
@@ -44,3 +44,24 @@ A ``Task`` is the Self entity representing a Github Issue or PR which is managed
 
 Any Issue or PR will automatically become a ``Task``. If, for any reason, you don't want it to be a task,
 you can just [say](#) ``deregister`` and the PM will remove it from scope (no payments will be made and the PM will charge no commission). Also, when opening a new Issue or PR you can label it ``no-task`` and the PM will **not** register it as a Task at all.
+
+## Invoices
+
+Tasks finished and closed by a Contributor are added to the Contributor's active ``Invoice``. The active Invoice is the latest, unpaid Invoice.
+
+Invoices are automatically paid out regularly. Using the Project's active ``Wallet``.
+
+## Wallets
+
+Each Project can have a number of wallets attached, but only one of them can be active -- the one Self uses to make payments.
+
+Each Project starts with a ``Fake Wallet`` attached to it: as long as this fake wallet is active, all the payments (including Self's commission) are fictive.
+
+The user can register a ``Real Wallet`` and can specify a cash limit that Self is allowed to take from it. Real wallets are implemented using [Stripe](https://stripe.com).
+
+## Payout Methods
+
+Once a Project has a real wallet, the Contributors must create a ``Payout Method`` in order to be paid.
+Payout methods are also implemented via [Stripe](https://stripe.com).
+
+If the project has no real wallet, Contributors do not need to do anything, since the payments are fictive.
