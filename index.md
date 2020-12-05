@@ -11,5 +11,5 @@ automated project management of distributed projects.
 You can find here all the essential information that you need in order to get the
 most out of Self.
 
-If you need more urgent support, feel free to join out [Telegram group](https://t.me/joinchat/FWpjdxscN7kYhADoVtUV0A)
+If you need more urgent support, feel free to join our [Telegram group](https://t.me/joinchat/FWpjdxscN7kYhADoVtUV0A)
 and ask your question there, someone should be able to give you an answer quickly.
