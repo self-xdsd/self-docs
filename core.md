@@ -15,6 +15,13 @@ After activating the Repo, the user must register some ``Contracts`` (a Contract
 
 # Concepts
 
+<a href="#user-contributors">User, Contributors</a><br>
+<a href="#repo-project">Repo, Project</a><br>
+<a href="#task">Task</a><br>
+<a href="#invoices">Invoices</a><br>
+<a href="#payout-methods">Payout Methods</a><br>
+
+
 ## User, Contributors
 
 A ``User`` is usually someone who activated one or more of their repos on Self XDSD. The Project Owner, if you wish.
@@ -43,7 +50,7 @@ A ``Task`` is the Self entity representing a Github Issue or PR which is managed
 - PM adds the Task to the Contributor's active Invoice and takes it out of scope.
 
 Any Issue or PR will automatically become a ``Task``. If, for any reason, you don't want it to be a task,
-you can just [say](#) ``deregister`` and the PM will remove it from scope (no payments will be made and the PM will charge no commission). Also, when opening a new Issue or PR you can label it ``no-task`` and the PM will **not** register it as a Task at all.
+you can just [say](/projectmanager.html#commands) ``deregister`` and the PM will remove it from scope (no payments will be made and the PM will charge no commission). Also, when opening a new Issue or PR you can label it ``no-task`` and the PM will **not** register it as a Task at all.
 
 ## Invoices
 

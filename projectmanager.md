@@ -12,13 +12,17 @@ to one such PM.
 The PM will only act automatically upon new issues - it will not do anything about the issues which
 were opened prior to the Project's activation.
 
-## Triggers
+<a href="#webhook-events">Webhook Events</a><br>
+<a href="#commands">Commands</a><br>
+<a href="#timers">Timers</a><br>
+
+## Webhook Events
 
 When a Repo is activated, we set up a [Webhook](https://developer.github.com/webhooks/) so that Github notifies
 the PM of certain events automatically. The PM will be notified of the following events:
 
-* ``New Issue`` - so it can register new issues as tasks.
-* ``Reopened Issue`` - so it can register reopened issues as tasks.
+* ``New Issue`` - so it can register new issues/pull requests as tasks.
+* ``Reopened Issue`` - so it can register reopened issues/pull requests as tasks.
 * ``Issue Comments`` - so it can execute and reply to commands.
 * ``Push`` - so it can transform the latest ``TODO``s into new Issues.
 
@@ -36,3 +40,12 @@ For example: ``@charlesmike hello`` will prompt the PM to present itself.
 * ``Register`` -- an Issue or PR can be registered as a Task with a comment containing the word **"register"**. Any Contributor can give this command.
 
 The precedence of the commands is the same as the above order. For example, if a comment contains both **"hello"** and **"deregister"**, it will be unerstood as a ``Hello`` command.
+
+## Timers
+
+Besides listening to Webhooks and Issue Comments, the PM runs a few jobs regularly:
+
+* The PM will review **new Issues/PRs every 10 minutes** and assign them to contributors.
+* The PM will review the **assigned Tasks every 6 hours** and invoice them if their respective Issues/PRs are closed.
+ This is also the time when the PM will look for another assignee if the Issue/PR is still open and the deadline is passed.
+* The PM will try to pay all active Invoices once a week, on Monday.
