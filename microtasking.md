@@ -40,7 +40,7 @@ Here is how a TODO looks like:
 ```
 
 * ``@todo`` is the starting marker.
-* ``#123`` is the originating ticket (the assignee was working on ticket ``123`` when they wrote is).
+* ``#123`` is the originating ticket (the assignee was working on ticket ``123`` when they wrote it).
 * ``60min`` is the estimation of the new task.
 * Lines ``2..n`` must start with a space (must be alligned with the ``t``, not the ``@``).
 
