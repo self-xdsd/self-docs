@@ -12,4 +12,4 @@ You can find here all the essential information that you need in order to get th
 most out of Self.
 
 If you need more urgent support, feel free to join our [Telegram group](https://t.me/joinchat/FWpjdxscN7kYhADoVtUV0A)
-and ask your question there, someone should be able to give you an answer quickly.
+and ask your question there. Someone should be able to give you an answer quickly.
