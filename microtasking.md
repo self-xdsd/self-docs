@@ -6,7 +6,7 @@ nav_order: 5
 
 # Estimation and Microtasking
 
-Each Issue has a default estimation of ``60 minutes``, while each PR has a default estimation of ``30 minutes``.That's exactly how much the assignee will be paid upon completion.
+Each Issue has a default estimation of ``60 minutes``, while each Pull Request has a default estimation of ``30 minutes``. That's exactly how much the assignee will be paid upon completion.
 
 <a href="#breaking-the-scope">Breaking the scope</a><br>
 <a href="#example">Example</a><br>
