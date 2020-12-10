@@ -6,11 +6,11 @@ nav_order: 5
 
 # Estimation and Microtasking
 
-Each Issue has a default estimation of ``60 minutes``, while each PR has a default estimation of ``30min``.That's exactly how much the assignee will be paid upon completion.
+Each Issue has a default estimation of ``60 minutes``, while each PR has a default estimation of ``30 minutes``.That's exactly how much the assignee will be paid upon completion.
 
 <a href="#breaking-the-scope">Breaking the scope</a><br>
 <a href="#example">Example</a><br>
-<a href="#anatomy-of-a-todos">Anatomy of a TODO</a><br>
+<a href="#anatomy-of-a-todo">Anatomy of a TODO</a><br>
 <a href="#changing-the-estimation">Changing the Estimation</a>
 
 ## Breaking the scope
@@ -28,7 +28,7 @@ Consequently, any Pull Request should be small enough to be reviewable within 30
 
 [Here](https://github.com/self-xdsd/self-core/issues/717) is an example. The assignee was required to implement Gitlab's Issues within Self XDSD (by using Gitlab's RESTful API). It's obviously a big task, requiring at least several hours to complete. The assignee made a small [Pull Request](https://github.com/self-xdsd/self-core/pull/718) with the initial interfaces and classes and left **7 TODOs** in the code, which were transformed into [new Issues](https://github.com/self-xdsd/self-core/commit/f48613b20da5ced39b61277863a0e22c26e656f6#comments).
 
-## Anatomy of a TODOs
+## Anatomy of a TODO
 
 Since TODOs are an important tool in microtasking, they have a certain grammar.
 Here is how a TODO looks like:
