@@ -51,4 +51,6 @@ If you are using a fake wallet, these invoices will be addressed to "Project xxx
 
 For all the invoices paid with the real wallet, the Contributor will receive invoices from Self XDSD covering the commission -- they will be able to use these invoices to deduct the commission from their books.
 
-Example: Project pays an Invoice of **1080,00 €**: 1000 goes to the Contributor, 80 is retained by Self XDSD. The Invoice is emitted by the Contributor, who only received 1000, therefore they will receive another Invoice from Self XDSD for the 80 euros.
+Example: Project pays an Invoice of **108,00 €**: 100 goes to the Contributor, 8 is retained by Self XDSD. The Invoice is emitted by the Contributor, who only received 100, therefore they will receive another Invoice from Self XDSD for the 8 euros.
+
+![Invoicing Model](/img/self_invoicing.jpg "Invoicing Model")
