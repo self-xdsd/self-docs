@@ -32,7 +32,7 @@ that you actually have that amount of money available on your card.
 
 ## Commission
 
-For all tasks which are closed and invoiced (added to the active invoice of a Contributor), Self XDSD charges a commission of 8%.
+For all tasks which are closed and invoiced (added to the active invoice of a Contributor), Self XDSD charges a commission of **8%**.
 The actual value depends on the task's estimation and the contributor's hourly rate.
 
 For example, in the case of a task which has a **4-hour estimation**, solved by a Contributor who has a **25,00 €** hourly rate, the commission will be **8,00 €** -- finally, you will pay **108,00 €**, 100 to the Contributor and 8 to us.
@@ -47,7 +47,9 @@ Of course, if you are using a fake wallet, the payments will be fictive -- nobod
 
 On the Project page, Contracts tab, you can download all the Invoices from your contributors. These invoices contain both the Contributor's revenue and Self XDSD's commission. All your spent money should be covered by these invoices.
 
-If you are using a fake wallet, these invoices will be addressed to "Project xxxxx/yyyyy at Github.", so they will not have any fiscal value (this makes sense, since no actual payments are performed). When you register a real wallet, you will be asked for your business and/or tax information, which will appear on the invoice. The Contributor is also asked for their business/tax information when registering with Stripe.
+If you are using a fake wallet, these invoices will be addressed to "Project xxxxx/yyyyy at Github.", so they will not have any fiscal value (this makes sense, since no actual payments are performed).
+
+When you register a real wallet, you will be asked for your business and/or tax information, which will appear on the invoice. The Contributor is also asked for their business/tax information when registering with Stripe. Thus, an invoice paid with the real wallet should be correct and complete from a fiscal point of view.
 
 For all the invoices paid with the real wallet, the Contributor will receive invoices from Self XDSD covering the commission -- they will be able to use these invoices to deduct the commission from their books.
 
