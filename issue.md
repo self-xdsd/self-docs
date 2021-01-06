@@ -9,7 +9,7 @@ nav_order: 4
 Issue or Pull Request is <a href="#new-issue">opened.</a><br>
 Issue or Pull Request is <a href="#issuepr-assignment">assigned</a> to a Contributor.<br>
 Contributor <a href="#fixing-and-closing-the-issuepr">fixes</a> the Issue or Pull Requests and closes/merges it.<br>
-PM takes adds the Issue/PR to the Contributor's active Invoice.<br>
+PM adds the Issue/PR to the Contributor's active Invoice.<br>
 
 ## New Issue
 
