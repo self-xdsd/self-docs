@@ -7,6 +7,7 @@ This repo contains the Docs website for Self XDSD: https://docs.self-xdsd.com
 To run locally, you will need Ruby, Bundler and Jekyll installed.
 
 ```shell
+bundle install
 bundle exec jekyll serve --config _config_local.yml
 ```
 
