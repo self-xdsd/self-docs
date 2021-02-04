@@ -1,0 +1,34 @@
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+  </JavaCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+    <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
+  </yaml>
+  <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="80" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="RESOURCE_LIST_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="RESOURCE_LIST_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="THROWS_KEYWORD_WRAP" value="1" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
