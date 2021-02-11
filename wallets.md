@@ -35,7 +35,7 @@ that you actually have that amount of money available on your card.
 For all tasks which are closed and invoiced (added to the active invoice of a Contributor), Self XDSD charges a commission of **8%**.
 The actual value depends on the task's estimation and the contributor's hourly rate.
 
-For example, in the case of a task which has a **4-hour estimation**, solved by a Contributor who has a **25,00 €** hourly rate, the commission will be **8,00 €** -- finally, you will pay **108,00 €**, 100 to the Contributor + 8, our commission.
+For example, in the case of a task which has a **4-hour estimation**, solved by a Contributor who has a **25,00 €** hourly rate, the commission will be **8,00 €** -- finally, you will pay **108,00 €**: 100 to the Contributor, plus 8 our commission.
 
 ## Payments
 
