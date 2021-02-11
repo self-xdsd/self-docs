@@ -35,11 +35,11 @@ that you actually have that amount of money available on your card.
 For all tasks which are closed and invoiced (added to the active invoice of a Contributor), Self XDSD charges a commission of **8%**.
 The actual value depends on the task's estimation and the contributor's hourly rate.
 
-For example, in the case of a task which has a **4-hour estimation**, solved by a Contributor who has a **25,00 €** hourly rate, the commission will be **8,00 €** -- finally, you will pay **108,00 €**, 100 to the Contributor and 8 to us.
+For example, in the case of a task which has a **4-hour estimation**, solved by a Contributor who has a **25,00 €** hourly rate, the commission will be **8,00 €** -- finally, you will pay **108,00 €**, 100 to the Contributor + 8, our commission.
 
 ## Payments
 
-Each Monday, Self XDSD will automatically pay all the Invoices which have a value over **100,00 €**. You can also pay an Invoice manually from the web UI, once its value is over **100,00 €**.
+Each Monday, Self XDSD will automatically pay all the Invoices which have a value over **108,00 €**. You can also pay an Invoice manually from the web UI, once its value is over **108,00 €**.
 
 Of course, if you are using a fake wallet, the payments will be fictive -- nobody will pay or receive any money, we will just mark the Invoice as "paid".
 
