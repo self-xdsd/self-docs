@@ -22,9 +22,11 @@ For each transaction that happens in Self XDSD there are 2 invoices involved: yo
 
 Say you earn 100 EUR by working in Self XDSD. Your invoice to the project will actually be for 108 EUR (your 100 EUR plus the 8% commission taken from the project). However, in the end you will receive only 95 EUR (108 minus 8 minus 5).
 
-Since you emitted an invoice for 108 EUR, but you only received 95 EUR, Self XDSD will give you an Invoice for the 13 EUR. This invoice is generated when your project invoice is paid. You can see all your invoices on the [Contributor Dashboard](https://self-xdsd.com/contributor).
+Since you emitted an invoice for 108 EUR, but you only received 95 EUR, Self XDSD will give you an Invoice for the 13 EUR. This invoice is generated when your project invoice is paid.
 
 ![Invoicing Model](/img/invoicing.svg "Invoicing Model")
+
+You can see all your invoices on the [Contributor Dashboard](https://self-xdsd.com/contributor).
 
 ## VAT (EU Contributors Only)
 
@@ -36,6 +38,6 @@ If you live in the European Union, VAT (Value-Added Tax) also applies for the co
 
 * You live in the EU (except Romania) and provide us with a valid VAT Number: Self XDSD will NOT charge the VAT. Instead, the Reverse VAT Scheme will be applied (you will pay the VAT in your country).
 
-Example: You earn **100 EUR**. Your earnings after commissioning are **95 EUR**. If VAT applies, it is calculated as 19% of 13 EUR (our total commission), therefore your final net earnings are **92.53 EUR**.
+Example: You earn **100 EUR**, the client pays **108 EUR** and your earnings after commissioning are **95 EUR**. If VAT applies, it is calculated as **19%** of 13 EUR (our total commission), therefore your final net earnings are **92.53 EUR** (95 minus the VAT, which is 2.47).
 
 We recommend you discuss with a tax advisor if you don't fully understand how invoicing and VAT work, so that you can keep your books in order.
