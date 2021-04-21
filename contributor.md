@@ -24,7 +24,7 @@ Say you earn 100 EUR by working in Self XDSD. Your invoice to the project will a
 
 Since you emitted an invoice for 108 EUR, but you only received 95 EUR, Self XDSD will give you an Invoice for the 13 EUR. This invoice is generated when your project invoice is paid. You can see all your invoices on the [Contributor Dashboard](https://self-xdsd.com/contributor).
 
-![Invoicing Model](/img/self_invoicing.jpg "Invoicing Model")
+![Invoicing Model](/img/invoicing.svg "Invoicing Model")
 
 ## VAT (EU Contributors Only)
 
