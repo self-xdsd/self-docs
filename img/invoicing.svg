@@ -51,13 +51,13 @@
         <text id="Contributor" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
             <tspan x="697" y="190">Contributor</tspan>
         </text>
-        <text id="108-€" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+        <text id="108-€" font-family="Helvetica" font-size="20" font-weight="normal" fill="#000000">
             <tspan x="90" y="263">     108 €</tspan>
         </text>
-        <text id="13-€" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+        <text id="13-€" font-family="Helvetica" font-size="20" font-weight="normal" fill="#000000">
             <tspan x="405" y="447">13 €</tspan>
         </text>
-        <text id="95-€" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+        <text id="95-€" font-family="Helvetica" font-size="20" font-weight="normal" fill="#000000">
             <tspan x="601" y="263">     95 €</tspan>
         </text>
         <g id="Group-4" transform="translate(332.000000, 0.000000)">
