@@ -38,6 +38,6 @@ If you live in the European Union, VAT (Value-Added Tax) also applies for the co
 
 * You live in the EU (except Romania) and provide us with a valid VAT Number: Self XDSD will NOT charge the VAT. Instead, the Reverse VAT Scheme will be applied (you will pay the VAT in your country).
 
-Example: You earn **100 EUR**, the client pays **108 EUR** and your earnings after commissioning are **95 EUR**. If VAT applies, it is calculated as **19%** of 13 EUR (our total commission), therefore your final net earnings are **92.53 EUR** (95 minus the VAT, which is 2.47).
+Example: You earn **100 EUR**, the client pays **108 EUR** and your earnings after deducting the commission are **95 EUR**. If VAT applies, it is calculated as **19%** of 13 EUR (our total commission), therefore your final net earnings are **92.53 EUR** (95 minus the VAT, which is 2.47).
 
 We recommend you discuss with a tax advisor if you don't fully understand how invoicing and VAT work, so that you can keep your books in order.
