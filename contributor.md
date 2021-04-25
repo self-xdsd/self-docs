@@ -40,4 +40,4 @@ If you live in the European Union, VAT (Value-Added Tax) also applies for the co
 
 Example: You earn **100 EUR**, the client pays **108 EUR** and your earnings after deducting the commission are **95 EUR**. If VAT applies, it is calculated as **19%** of 13 EUR (our total commission), therefore your final net earnings are **92.53 EUR** (95 minus the VAT, which is 2.47).
 
-We recommend you discuss with a tax advisor if you don't fully understand how invoicing and VAT work, so that you can keep your books in order.
+We recommend you discuss with a tax advisor if you don't fully understand how invoicing and VAT work, so that you can keep your accounting in order.
