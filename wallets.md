@@ -50,9 +50,3 @@ On the Project page, Contracts tab, you can download all the Invoices from your 
 If you are using a fake wallet, these invoices will be addressed to "Project xxxxx/yyyyy at Github.", so they will not have any fiscal value (this makes sense, since no actual payments are performed).
 
 When you register a real wallet, you will be asked for your business and/or tax information, which will appear on the invoice. The Contributor is also asked for their business/tax information when registering with Stripe. Thus, an invoice paid with the real wallet should be correct and complete from a fiscal point of view.
-
-For all the invoices paid with the real wallet, the Contributor will receive invoices from Self XDSD covering the commission -- they will be able to use these invoices to deduct the commission from their books.
-
-Example: Project pays an Invoice of **108,00 €**: 100 goes to the Contributor, 8 is retained by Self XDSD. The Invoice is emitted by the Contributor, who only received 100, therefore they will receive another Invoice from Self XDSD for the 8 euros.
-
-![Invoicing Model](/img/self_invoicing.jpg "Invoicing Model")
