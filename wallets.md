@@ -37,6 +37,8 @@ The actual value depends on the task's estimation and the contributor's hourly r
 
 For example, in the case of a task which has a **4-hour estimation**, solved by a Contributor who has a **25,00 €** hourly rate, the commission will be **8,00 €** -- finally, you will pay **108,00 €**: 100 to the Contributor, plus 8 our commission.
 
+We also take a commission of **5%** from the Contributor. If you're a Contributor working in Self XDSD, read more [here](https://docs.self-xdsd.com/contributor.html).
+
 ## Payments
 
 Each Monday, Self XDSD will automatically pay all the Invoices which have a value over **108,00 €**. You can also pay an Invoice manually from the web UI, once its value is over **108,00 €**.
