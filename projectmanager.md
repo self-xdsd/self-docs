@@ -46,6 +46,6 @@ The precedence of the commands is the same as the above order. For example, if a
 Besides listening to Webhooks and Issue Comments, the PM runs a few jobs regularly:
 
 * The PM will review **new Issues/PRs every 10 minutes** and assign them to contributors.
-* The PM will review the **assigned Tasks every 6 hours** and invoice them if their respective Issues/PRs are closed.
+* The PM will review the **assigned Tasks every 30 minutes** and invoice them if their respective Issues/PRs are closed.
  This is also the time when the PM will look for another assignee if the Issue/PR is still open and the deadline is passed.
 * The PM will try to pay all active Invoices once a week, on Monday. An Invoice has to have a total amount of at least **108,00 €** in order to be paid.
