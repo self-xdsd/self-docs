@@ -30,6 +30,8 @@ Once you register a real wallet and a payment method (a credit or debit card), y
 exactly how much money Self XDSD will use. You will have to update this limit regularly and we also kindly ask you to make sure
 that you actually have that amount of money available on your card.
 
+**Attention:** Real payments are supported only in the countries supported by Stripe (see [here](https://stripe.com/global)). In order to pay and/or be paid through Self XDSD, the Project Owner and the Contributor need to provide documents proving their address in one of the supported countries. We apologise for this inconvenience. If you notice that Stripe supports a new country which is not yet listed in Self XDSD, kindly open an Issue [here](https://github.com/self-xdsd/self-web/issues).
+
 ## Commission
 
 For all tasks which are closed and invoiced (added to the active invoice of a Contributor), Self XDSD charges a commission of **8%**.
