@@ -39,7 +39,7 @@ For example: ``@charlesmike hello`` will prompt the PM to present itself.
 * ``Deregister`` -- a task can be deregistered (taken out of scope) with a comment containing the word **"deregister"**. Only a Contributor with role ``PO`` or ``ARCH`` can give this command. When a task is deregistered, the task's assignee is automatically resigned.
 * ``Register`` -- an Issue or PR can be registered as a Task with a comment containing the word **"register"**. Any Contributor can give this command.
 
-The precedence of the commands is the same as the above order. For example, if a comment contains both **"hello"** and **"deregister"**, it will be unerstood as a ``Hello`` command.
+The precedence of the commands is the same as the above order. For example, if a comment contains both **"hello"** and **"deregister"**, it will be understood as a ``Hello`` command.
 
 ## Timers
 
