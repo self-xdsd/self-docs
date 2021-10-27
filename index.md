@@ -13,3 +13,5 @@ most out of Self.
 
 If you need more urgent support, feel free to join our [Telegram group](https://t.me/joinchat/FWpjdxscN7kYhADoVtUV0A)
 and ask your question there. Someone should be able to give you an answer quickly.
+
+Throughout this documentation, the word ``Github`` is interchangeable with ``GitLab``, as our ``Project Managers`` work in the same way whether your repository is hosted on [Github](https://github.com) or on [GitLab](https://gitlab.com).
